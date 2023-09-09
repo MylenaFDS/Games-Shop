@@ -12,7 +12,8 @@ header{
     color: #ecf0f1;
 }
 
-header h1{
+header h1,
+section h2{
     font-weight: normal;
 }
 
@@ -52,6 +53,7 @@ header h1 {
 
 .brands-list li{
     display: inline;
+    margin-right: 8px;
 }
 
 section .container{
@@ -64,6 +66,10 @@ section {
 
 section h2{
     margin-bottom: 16px;
+}
+
+section {
+    color: #182c61;
 }
 
 section p{
